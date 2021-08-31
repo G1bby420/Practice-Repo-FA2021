@@ -4,24 +4,27 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Calculus 1
 
-- Course 2
+- Intro Data Science
 
-- Course 3
+- Programming with Python
 
-- Course 4
+- Cloud Infastructure
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Drawing
 
-- Thing 2
+- Baking shows
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
 ***
+- Egg
+- Nest
+- Fire
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2003/06/23
