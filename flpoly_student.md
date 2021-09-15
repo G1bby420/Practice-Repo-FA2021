@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Gabriella Barahona
 
 ### Fall 2021
@@ -15,37 +14,34 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 | **CTS**   | **2375** |_Cloud Infrastructure and Services_       |  3    |
 
 
-**Hobbies:**
 
-I am _passionate about_: 
+# **Stuff I learned**:
 
-- Drawing
 
-- Baking shows
+## Analytic Geometry and Calculus 1
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
-***
-- Egg
-- Nest
-- Fire
+- Learned about derivatives
 
-> Last modified: 2021/09/15
+- How a graphing calculator works
 
-=======
-## Gabriella Barahona
+- I know what limits are and it's painful
 
-### Fall 2021
+## Intro to Data Science
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+- How to use Git
 
-**Courses:**
+- Learning a bit of the language in R Studio
 
-| Prefix    | Number   |Name                                      |Credits|
-|:---------:|:---------|:----------------------------------------:|:-----:|
-| **MAC**   | **2311** |_Analytic Geometry and Calculus 1_        |  4    | 
-| **COP**   | **2073** |_Intro to Data Science_                   |  3    |
-| **COP**   | **2034** |_Introduction to Programming using Python_|  3    |
-| **CTS**   | **2375** |_Cloud Infrastructure and Services_       |  3    |
+- Knowing what a vector is outside of Adobe Illustrator
+
+## Introduction to Programming using Python
+
+
+- Doing basic maths, but now it looks hella weird
+
+- Creating user based inputs
+
+- The turtle library that lets you code the program to draw -> [link](https://realpython.com/beginners-guide-python-turtle/#:~:text=turtle%20is%20a%20pre%2Dinstalled,gives%20the%20library%20its%20name.&text=Most%20developers%20use%20turtle%20to,create%20designs%2C%20and%20make%20images.)
 
 
 **Hobbies:**
@@ -56,13 +52,12 @@ I am _passionate about_:
 
 - Baking shows
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
-
 ***
+
+**Find 3 things in this website <https://www.floridapoly.edu>**
+
 - Egg
+
 - Nest
+
 - Fire
-
-> Last modified: 2021/09/15
-
->>>>>>> 9588214c1fc5729e8b770ed4820a50eae6efefb3
