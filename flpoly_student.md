@@ -52,6 +52,10 @@ I am _passionate about_:
 
 - Baking shows
 
+- Making resin crafts
+
+- Writing
+
 ***
 
 **Find 3 things in this website <https://www.floridapoly.edu>**
